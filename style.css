@@ -1,9 +1,12 @@
 #top header {
   background: white;
+  height: 200px;
 }
 #middle header {
   background: black;
+  height: 200px;
 }
 #bottom header {
   background: green;
+  height: 200px;
 }
