@@ -1,9 +1,9 @@
-top {
+#top header {
   background: white;
 }
-middle {
+#middle header {
   background: black;
 }
-bottom {
+#bottom header {
   background: green;
 }
