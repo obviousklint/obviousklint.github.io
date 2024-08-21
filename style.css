@@ -1,3 +1,9 @@
-body {
+top {
+  background: white;
+}
+middle {
   background: black;
+}
+bottom {
+  background: #72625e;
 }
