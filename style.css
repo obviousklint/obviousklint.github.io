@@ -1,12 +1,12 @@
-top {
+.top {
   background: green;
   height: 200px;
 }
-middle {
+.middle {
   background: green;
   height: 200px;
 }
-bottom {
+.bottom {
   background: green;
   height: 200px;
 }
