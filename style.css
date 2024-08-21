@@ -1,12 +1,12 @@
-#top header {
+top {
   background: green;
   height: 200px;
 }
-#middle header {
+middle {
   background: green;
   height: 200px;
 }
-#bottom header {
+bottom {
   background: green;
   height: 200px;
 }
